@@ -14,10 +14,10 @@
     width: 70em;
     max-width: 100%;
     margin: 0 auto;
-
+    padding: 1%;
     overflow: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
 }
 

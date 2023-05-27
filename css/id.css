@@ -1,0 +1,31 @@
+#nav{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+#site-name{
+    font-weight: bold;
+    font-size: 2vw;
+    white-space: nowrap;
+}
+
+
+#container-main1{
+    height: 98%;
+    width: 50%;
+    background-color: red;
+}
+
+#container-main2{
+    height: 98%;
+    width: 50%;
+    background-color: blue;
+}
+
+
+img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
