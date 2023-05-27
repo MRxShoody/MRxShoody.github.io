@@ -1,0 +1,33 @@
+#flex-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 7.5vh;
+    padding: 0 5vw;
+}
+
+#flex-main{
+    background-color: lightskyblue;
+    height: 100%;
+    width: 70em;
+    max-width: 100%;
+    margin: 0 auto;
+
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#flex-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+    height: 7.5vh;
+    padding: 0 5vw;
+}

@@ -1,0 +1,11 @@
+#nav{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+#site-name{
+    font-weight: bold;
+    font-size: 2vw;
+    white-space: nowrap;
+}
